@@ -26,5 +26,7 @@
 defined('MOODLE_INTERNAL') || die();
 
 $plugin->component = 'customfield_multiselect';
-$plugin->version   = 2021090700;
+$plugin->version   = 2025070700;
 $plugin->requires  = 2019051100;
+$plugin->release   = '1.1.0';
+$plugin->maturity  = MATURITY_STABLE;
